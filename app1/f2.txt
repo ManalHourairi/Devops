@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C067-04E2
+
+ Directory of C:\Users\houra\app1
+
+03/13/2024  09:57 AM    <DIR>          .
+03/13/2024  09:57 AM    <DIR>          ..
+03/13/2024  09:57 AM               340 f1.txt
+03/13/2024  09:57 AM                 0 f2.txt
+               2 File(s)            340 bytes
+               2 Dir(s)   8,797,626,368 bytes free
